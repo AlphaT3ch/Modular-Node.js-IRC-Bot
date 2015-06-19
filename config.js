@@ -12,7 +12,7 @@ exports.settings = {
 	// The IRC nick of the person actually running the bot
 	globalowner: "UnconfiguredBotOwner",
 	// Set to true to enable notifications when an update is available (checks when the bot starts and will notify via IRC to the owner. The tell module must be enabled)
-	updatenotify: "false",
+	updatenotify: "true",
 
 	// These modules will be loaded in all channels.
 	globalServModules: {
@@ -43,6 +43,7 @@ exports.settings = {
 		card: {},
 		help: {},
 		google: {},
+//		wolfram: { key: "Wolfram|Alpha Key Here" }
 	},
 	
 	servers: {

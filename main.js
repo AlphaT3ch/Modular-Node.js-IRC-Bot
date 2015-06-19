@@ -3,7 +3,7 @@
 
 var Server = require("./lib/Server.js").Server;
 var Channel = require("./lib/Channel.js").Channel;
-var settings = require("./settings.js").settings;
+var settings = require("./config.js").settings;
 var log = require("./lib/Logger.js");
 
 if (settings.servers == undefined)
