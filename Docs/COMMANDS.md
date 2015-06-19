@@ -47,8 +47,6 @@ Usage: !seen username
 This shows when the last user was seen.  
 
 #### ddg
-This module requires python 2.7 to be installed on the server that it runs on.  
-
 Usage: !ddg searchquery  
 This is basically a mini-search engine.  
 
@@ -110,3 +108,15 @@ Returns a random card.
 #### help  
 Usage: !help   
 Gives a link to this file for the commands.
+
+#### whois
+Usage: !whois ip-address-query
+Returns information on the IP using ip-api.com
+
+#### google
+Usage: !google search-query
+Returns the top Google search result
+
+#### wolfram
+Usage: !wolfram query
+Runs a query through Wolfram|Alpha, returns the information and URL. Requires a Wolfram|Alpha API Key
