@@ -6,7 +6,11 @@
   "dependencies": {
     "request": "^2.58.0",
     "daemonize2": "^0.4.2",
-    "google": "^1.2.0"
+    "google": "^1.2.0",
+    "ddg": "^0.0.3",
+    "node-wolfram": "^0.0.1",
+    "temp-write": "^1.1.1",
+    "MD5": "^1.2.2"
   },
   "repository": {
     "type": "git",

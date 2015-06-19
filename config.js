@@ -9,10 +9,6 @@ exports.settings = {
 	globalRealName: "Node.js IRC Bot",
 	// prefix of most commands for bot
 	defaultCommandPrefix: "!",
-	// The IRC nick of the person actually running the bot
-	globalowner: "UnconfiguredBotOwner",
-	// Set to true to enable notifications when an update is available (checks when the bot starts and will notify via IRC to the owner. The tell module must be enabled)
-	updatenotify: "false",
 
 	// These modules will be loaded in all channels.
 	globalServModules: {
@@ -43,6 +39,11 @@ exports.settings = {
 		card: {},
 		help: {},
 		google: {},
+//		wolfram: { key: "Wolfram|Alpha Key Here" },
+		whois: {},
+		ping: {},
+		sha256: {},
+		md5: {}
 	},
 	
 	servers: {
