@@ -19,7 +19,6 @@ exports.settings = {
 		yesno: {},
 		chance: {},
 		tell: {},
-		calc: {},
 		seen: {},
 		ddg: {},
 		fire: {},
