@@ -45,7 +45,8 @@ exports.settings = {
 		sha256: {},
 		md5: {},
 		wikipedia: {},
-		leet: {}
+		leet: {},
+		cat: {}
 	},
 	
 	servers: {
