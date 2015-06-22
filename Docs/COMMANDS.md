@@ -140,3 +140,7 @@ Converts your message into "leet speak"
 #### wiki
 Usage: !wiki search
 Search Wikipedia
+
+#### cat
+Usage: !cat catid
+Get a cat from thecatapi.com
