@@ -2,6 +2,8 @@
 
 An extremely modular IRC bot written in Node.js.
 
+[![Contains Cat GIFs](http://forthebadge.com/badges/contains-cat-gifs.svg)](https://github.com/LifeMushroom/Modular-Node.js-IRC-Bot/blob/master/modules/cat.js)
+
 ## How to use/install
 
 If you cannot host this or don't want to use your own system, please view the [Cloud9 Install Tutorial (For Beginner Users)](https://github.com/LifeMushroom/Modular-Node.js-IRC-Bot/blob/master/Docs/Cloud9.md) or the [OpenShift Install Tutorial (For Experts)](https://github.com/LifeMushroom/Modular-Node.js-IRC-Bot/blob/master/Docs/OpenShift.md) otherwise, continue on...
