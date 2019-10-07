@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Apexton/Modular-Node.js-IRC-Bot.git"
+    "url": "git://github.com/PranavMahesh1/Modular-Node.js-IRC-Bot.git"
   },
   "keywords": [
     "Node.js",
@@ -40,10 +40,10 @@
     "IRC",
     "Bot"
   ],
-  "author": "LifeMushroom",
+  "author": "Pranav Mahesh",
   "license": "GNU-3.0",
   "bugs": {
-    "url": "https://github.com/Apexton/Modular-Node.js-IRC-Bot/issues"
+    "url": "https://github.com/PranavMahesh1/Modular-Node.js-IRC-Bot/issues"
   },
-  "homepage": "https://github.com/Apexton/Modular-Node.js-IRC-Bot"
+  "homepage": "https://github.com/PranavMahesh1/Modular-Node.js-IRC-Bot"
 }
