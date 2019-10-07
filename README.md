@@ -4,6 +4,7 @@
 
 An extremely modular IRC bot written in Node.js.
 
+Special thanks to (https://github.com/AlphaT3ch)[AlphaT3ch] and (https://github.com/dirbaio)[Dirbaio] for helping with the code.
 ## How to use/install
 
 If you cannot host this or don't want to use your own system, please view the [Cloud9 Install Tutorial (For Beginner Users)](https://github.com/PranavMahesh1/Modular-Node.js-IRC-Bot/blob/master/Docs/Cloud9.md) or the [OpenShift Install Tutorial (For Advanced Users)](https://github.com/PranavMahesh1/Modular-Node.js-IRC-Bot/blob/master/Docs/OpenShift.md) otherwise, continue on... Please note that when using the [Cloud9 Method](https://github.com/PranavMahesh1/Modular-Node.js-IRC-Bot/blob/master/Docs/Cloud9.md) that the browser will need to be open while running the bot unless you have a [paid Cloud9 account](https://c9.io/pricing).
