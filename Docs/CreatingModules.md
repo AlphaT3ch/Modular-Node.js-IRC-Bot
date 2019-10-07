@@ -1,6 +1,6 @@
 # Creating Modules
 It's quite simple to actually make your own modules for the bot.
-- Make a file in the [modules directory](https://github.com/LifeMushroom/Modular-Node.js-IRC-Bot/tree/master/modules)
+- Make a file in the [modules directory](https://github.com/PranavMahesh1/Modular-Node.js-IRC-Bot/tree/master/modules)
 - Inside the file on the first line, put ```"use strict"```
 - Include any files or external modules to use
 - Put ```exports.module = function() {``` to declare that this is part of your module.
